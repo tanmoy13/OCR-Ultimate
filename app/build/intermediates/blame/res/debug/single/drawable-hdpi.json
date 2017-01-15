@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/tanmoy/Desktop/ocr-reader/app/build/intermediates/res/merged/debug/drawable-hdpi/camera.png",
+        "source": "/home/tanmoy/Desktop/ocr-reader/app/src/main/res/drawable-hdpi/camera.png"
+    },
+    {
+        "merged": "/home/tanmoy/Desktop/ocr-reader/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/home/tanmoy/Desktop/ocr-reader/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/tanmoy/Desktop/ocr-reader/app/build/intermediates/res/merged/debug/drawable-hdpi/gallery.png",
+        "source": "/home/tanmoy/Desktop/ocr-reader/app/src/main/res/drawable-hdpi/gallery.png"
+    }
+]
