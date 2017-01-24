@@ -56,12 +56,12 @@
         "source": "/home/tanmoy/Desktop/ocr-reader/app/src/main/res/layout/activity_launcher.xml"
     },
     {
-        "merged": "/home/tanmoy/Desktop/ocr-reader/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/tanmoy/Desktop/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_big_media_narrow.xml"
-    },
-    {
         "merged": "/home/tanmoy/Desktop/ocr-reader/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
         "source": "/home/tanmoy/Desktop/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/tanmoy/Desktop/ocr-reader/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/tanmoy/Desktop/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/home/tanmoy/Desktop/ocr-reader/app/build/intermediates/res/merged/debug/layout/activity_about.xml",

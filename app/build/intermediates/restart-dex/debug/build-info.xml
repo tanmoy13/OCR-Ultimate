@@ -1,40 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="23"
-    density="xhdpi"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="4294819069314"
+    timestamp="14423076772582"
     token="8957974728026116581"
-    verifier="COMPATIBLE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="2803" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="932" />
     <task
         name="verifier"
-        duration="0" />
+        duration="86" />
 
     <artifact
-        location="/home/tanmoy/Desktop/ocr-reader/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="/home/tanmoy/Desktop/ocr-reader/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="3851621807655"
-        verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="/home/tanmoy/Desktop/ocr-reader/app/build/outputs/apk/app-debug.apk"
-            type="MAIN" />
-    </build>
-    <build
-        timestamp="5759066012289"
+        timestamp="14423076772582"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/tanmoy/Desktop/ocr-reader/app/build/outputs/apk/app-debug.apk"

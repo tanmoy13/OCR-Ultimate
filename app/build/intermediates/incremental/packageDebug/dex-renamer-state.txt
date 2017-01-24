@@ -1,7 +1,4 @@
-#Sun Jan 15 15:36:08 BDT 2017
-base.0=/home/tanmoy/Desktop/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9a7984513d93b0e28b952b6016ce5100b45bfd38
-renamed.1=classes2.dex
+#Wed Jan 18 18:19:14 BDT 2017
+base.0=/home/tanmoy/Desktop/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.1=/home/tanmoy/Desktop/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4512e8709e458bcfc26833bd5ce64c3dc927f1e1/classes.dex
-base.1=/home/tanmoy/Desktop/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4512e8709e458bcfc26833bd5ce64c3dc927f1e1
-file.0=/home/tanmoy/Desktop/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9a7984513d93b0e28b952b6016ce5100b45bfd38/classes.dex
+file.0=/home/tanmoy/Desktop/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

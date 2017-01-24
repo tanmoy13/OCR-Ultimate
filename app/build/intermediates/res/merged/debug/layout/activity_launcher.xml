@@ -18,22 +18,40 @@
                 android:id="@+id/cameraButton"
                 android:background="@drawable/camera"
                 android:layout_width="100dp"
-                android:layout_height="100dp"
-                android:layout_marginBottom="50dp"/>
+                android:layout_height="100dp" />
+        <TextView
+            android:id="@+id/cameraText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Real Time Detection"
+            android:textSize="14sp"
+            android:layout_marginBottom="40dp"/>
 
             <ImageButton
                 android:id="@+id/galleryButton"
                 android:background="@drawable/gallery"
                 android:layout_width="100dp"
-                android:layout_height="100dp"
-                android:layout_marginBottom="50dp"/>
-            <ImageButton
+                android:layout_height="100dp" />
+        <TextView
+            android:id="@+id/galleryText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Detect From Gallery"
+            android:textSize="14sp"
+            android:layout_marginBottom="30dp"/>
+
+        <ImageButton
                 android:id="@+id/aboutButton"
                 android:background="@drawable/about"
                 android:layout_width="100dp"
-                android:layout_height="100dp"
-                android:layout_marginBottom="50dp" />
-
+                android:layout_height="100dp" />
+        <TextView
+            android:id="@+id/aboutText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="About Us"
+            android:textSize="14sp"
+            android:layout_marginBottom="30dp"/>
 
         </LinearLayout>
 
